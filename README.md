@@ -26,7 +26,7 @@ Hola, soy David Montes De Oca!
 📝 Tengo un gran interes en la ciencia de datos y la inteligencia artificial.
 🔭 Working on Deep Learning & Machine Learning
 🌱 Aprendiendo sobre Visión por Computadora y Aprendizaje Automático
-🌟 Lenguajes principales: Python, JavaScript
+🌟 Lenguajes principales: Python, JavaScript, C, C++.
 🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack
 🤔 Actualmente estoy abierto para: un nuevo trabajo como <b>becario</b>, este es <a href="https://drive.google.com/file/d/15GaJROBlGeRJ-2i5yQwxLClEO65dDmft/view?usp=drive_link" target="_blank">MI CURRICULUM.</a>
 </pre>
