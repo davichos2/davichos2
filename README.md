@@ -15,8 +15,8 @@ Hola, soy David Montes De Oca!
 <br/>
 <p align="center">
 	<a href="https://github.com/davichos2">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+++++++Inteligencia+Artificial.;+++++++Desarrollo+Web.;++++++++Ciencia+De+Datos.;++++++++Siempre+aprendiendo+nuevas+cosas." alt="Typing SVG" />
-	</a>
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+++++++++++++++++Inteligencia+Artificial.;+++++++++++++++++Desarrollo+Web.;++++++++++++++++++Ciencia+De+Datos.;++++++++++++++++++Siempre+aprendiendo+nuevas+cosas." alt="Typing SVG" />
+		</a>
 </p>
 
 <hr>
