@@ -15,7 +15,7 @@ Hola, soy David Montes De Oca!
 <br/>
 <p align="center">
 	<a href="https://github.com/davichos2">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Inteligencia+Artificial.;Desarrollo+Web.;Ciencia+De+Datos.;Siempre+aprendiendo+nuevas+cosas." alt="Typing SVG" />
 	</a>
 </p>
 
@@ -24,7 +24,6 @@ Hola, soy David Montes De Oca!
 <pre>
 💻 Soy un estudiante de ingenieria en inteligencia artificial.
 📝 Tengo un gran interes en la ciencia de datos y la inteligencia artificial.
-🔭 Working on Deep Learning & Machine Learning
 🌱 Aprendiendo sobre Visión por Computadora y Aprendizaje Automático
 🌟 Lenguajes principales: Python, JavaScript, C, C++.
 🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack
@@ -98,7 +97,7 @@ Hola, soy David Montes De Oca!
 	</a>
 	<br/>
 <br/>
-<b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan experiencia ni nivel de habilidad.
+<b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan experiencia ni nivel de habilidad.
 </p>
 <br/>
 
