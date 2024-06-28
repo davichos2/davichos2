@@ -46,6 +46,8 @@ Hola, soy David Montes De Oca!
 <p>
     <a href="https://github.com/davichos2"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/davichos2"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/davichos2"><img alt="C" src="https://img.shields.io/badge/C-blue?logo=c"></a>
+    <a href="https://github.com/davichos2"><img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
 
 ### 🧰 Frameworks and Libraries
 
